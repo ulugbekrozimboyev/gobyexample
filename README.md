@@ -1,9 +1,9 @@
-## Go by Example
+## Go Misollar bilan
 
-Content, toolchain, and web server for [Go by Example](https://gobyexample.com).
+Content, toolchain va web server [Go by Example](https://gobyexample.com) uchun.
 
 
-### Overview
+### Kirish
 
 The Go by Example site is built by extracting code &
 comments from source files in `examples` and rendering
